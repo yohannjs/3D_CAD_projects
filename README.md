@@ -1,2 +1,2 @@
-# bike_light_holder
-FreeCAD model for 3D printed bracket to mount LED to bike. 
+# 3D_CAD_projects
+FreeCAD models for different projects, among others include 3D printed bracket to mount LED to bike. 
